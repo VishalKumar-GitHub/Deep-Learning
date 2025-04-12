@@ -3,9 +3,6 @@
 First up: **Artificial Neural Networks (ANN)**.  
 Sit back, relax, buckle up, and get started!
 
-👉 _[For the full PPT of Artificial Neural Networks (ANN) – Click Here]_  
-👉 _[For the PPT of this lecture – Click Here]_
-
 ---
 
 ## 🧠 Artificial Neural Networks – Plan of Attack
@@ -23,9 +20,6 @@ We'll begin with the foundation of the Neural Network — **the Neuron**. We'll 
 - Where it fits in a Neural Network  
 - Why it is important  
 
-The neuron forms the basis of all Neural Networks and is an **imitation (_NAKAL_) of what has been observed in the human brain**. We'll also touch on how the human brain works and why we're trying to replicate it.
-
-👉 _[For the PPT of this lecture – Click Here]_
 
 ---
 
@@ -55,11 +49,6 @@ Here’s where the magic happens — we dive deep into how learning occurs:
 
 These tutorials will explain how your model improves itself through training and optimization.
 
----
-
-## 7. Summary
-
-Finally, we’ll wrap it all up with a summary section that reviews **Backpropagation** and how to **compile instructions** for your Neural Network.
 
 ---
 
